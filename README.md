@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, I'm Jessica
+Hello, I'm Jessica
